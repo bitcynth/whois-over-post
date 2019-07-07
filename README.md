@@ -2,7 +2,7 @@
 
 WHOIS over Post (or snail mail) has an average response time of 2 weeks.
 
-Put a paper with the WHOIS query on it in an envelope with a return address and stamps.
+Put a paper with the WHOIS query on it in an envelope with a return address and stamps (for the return).
 
 Address it to
 ```
